@@ -1,0 +1,24 @@
+{
+  "name": "ipssi-todo-api",
+  "version": "1.0.0",
+  "description": "Todo API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Todo",
+    "Task",
+    "API"
+  ],
+  "author": "Vincent Letourneau",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.7",
+    "morgan": "^1.8.2"
+  }
+}
